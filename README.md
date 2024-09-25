@@ -1,4 +1,3 @@
-
 [![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thrinadh Madanu</h1>
 <h3 align="center">A passionate Java Full stack developer from India</h3>
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 🤝 I’m looking for help with **securing an entry-level Java full-stack developer position. As a recent graduate with a strong foundation in C, Python, Java, and SQL, I'm eager to apply my skills and contribute to innovative projects. I'm excited to join a dynamic team and leverage my passion for technology to drive positive outcomes.**
+- 👨‍💻 My projects are [Lesion Extraction and Stage Detection of Diabetic Retinopathy | Crowd Size Estimation and Cloud Integration | IPL Points Table Analysis]
 
 - 📫 How to reach me **madanuthrinadh@gmail.com**
 
