@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are [Lesion Extraction and Stage Detection of Diabetic Retinopathy | Crowd Size Estimation and Cloud Integration | IPL Points Table Analysis](Lesion Extraction and Stage Detection of Diabetic Retinopathy | Crowd Size Estimation and Cloud Integration | IPL Points Table Analysis)
-
+- 👨‍💻 All of my projects are [Lesion Extraction and Stage Detection of Diabetic Retinopathy | Crowd Size Estimation and Cloud Integration | IPL Points Table Analysis]
 - 📫 How to reach me **madanuthrinadh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
