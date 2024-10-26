@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanuthrinadh1&label=Profile%20views&color=0e75b6&style=flat" alt="madanuthrinadh1" /> </p>
 
-- 🔭 I have Knowledge on **C | Python | Java | SQL**
+- 🔭 I have Knowledge on **C | Python | Java | HTML  |  SQL**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
